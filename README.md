@@ -76,25 +76,6 @@
 
 ---
 
-## Featured Projects
-
-### AI & Machine Learning
-
-| Project | Description | Tech |
-|---|---|---|
-| [AgentTutor](https://github.com/Malindu1221/AgentTutor) | AI-powered multi-agent educational platform that generates personalized learning roadmaps and content recommendations | Python, Gemini, LangGraph |
-| [Hotel-Cancellation-Prediction](https://github.com/Malindu1221/Hotel-Cancellation-Prediction) | Predicting hotel booking cancellations with gradient-boosted trees (forked from [JudithWeerasinghe](https://github.com/JudithWeerasinghe/Hotel-Cancellation-Prediction)) | Python, XGBoost |
-| [student-performance-factors](https://github.com/Malindu1221/student-performance-factors) | End-to-end statistical analysis and predictive modeling investigating how support factors influence student persistence | R |
-
-### App & Web Development
-
-| Project | Description | Tech |
-|---|---|---|
-| [FabricLK](https://github.com/Malindu1221/FabricLK-Garment-Management-System) | Online garment management system for inventory, orders and daily operations | JavaScript |
-| [habit-tracker-app](https://github.com/Malindu1221/habit-tracker-app) | Native Android app for habits, hydration goals and mood trends with a home-screen widget | Kotlin |
-
----
-
 ## Get in Touch
 
 <p align="center">
